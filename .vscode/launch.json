@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DummyApplication<dummy>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "org.codingwallah.dummy.DummyApplication",
+            "projectName": "dummy",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
